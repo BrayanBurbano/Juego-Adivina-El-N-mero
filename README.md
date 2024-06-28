@@ -21,7 +21,7 @@ Desarrollado en el curso de programación en JavaScript de Alura Latam como part
 
 1. Clona el repositorio:
    ```sh
-   gh repo clone BrayanBurbano/Juego-Adivina-El-N-mero
+   gh repo clone BrayanBurbano/Juego-Adivina-El-Numero
 
 2. Navega al directorio del proyecto:
    ```sh
