@@ -25,7 +25,7 @@ Desarrollado en el curso de programación en JavaScript de Alura Latam como part
 
 2. Navega al directorio del proyecto:
    ```sh
-   cd JuegoAdivinaElNúmero
+   cd Juego-Adivina-El-Numero
 3. Abre el archivo index.html en tu navegador web para iniciar el juego.
 
 ## Uso
